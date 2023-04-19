@@ -9,6 +9,8 @@ For example:
     "option2": "Only be able to shout"
 }
 
+If using on your local environment:
+
 Please use localhost:8000/api to retrieve the entire collection.
 
 Use localhost:8000/api/n, where n is an integer > 0 for discrete entries.
